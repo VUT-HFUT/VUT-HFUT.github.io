@@ -1,0 +1,90 @@
+a:link {color: #FF0000} /* 未访问的链接 */
+a:visited {color: #FF0000} /* 已访问的链接 */
+a:hover {color: #FF00FF} /* 鼠标移动到链接上 */
+a:active {color: #0000FF} /* 选定的链接 */
+a{text-decoration:none}
+a.topbar{
+	color: #666; 
+	font-size: 15px;
+}
+hr.sec_line{
+	height: 1px;
+	border: none;
+	border-top: 1px solid #555555;
+}
+li{
+	font-family: Georgia, serif;
+	color: #000000;
+	font-size: 18px;
+}
+linkAerea{
+	font-family: Georgia, serif;
+	font-size: 25px;
+	color: #0000FF;
+}
+ul.linkAerea{
+	font-family: Georgia, serif;
+	font-size: 25px;
+}
+introduction{
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 180%;
+}
+p.textBlock{
+	color: #000000;
+	font-size: 18px;
+}
+p.affiliation{
+	/*color: #0000C6;*/
+	color: #FF8040;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: italic;
+}
+img.img_overview{
+	padding: 4px;line-height:1.42857143;display:inline-block;max-width:100%;height:auto;
+	float: left;
+	width: 35%;
+	border: 2px solid #C8C8C8; 
+	border-radius: 8px; 
+	margin-right: 30px;
+	margin-bottom: 5px
+}
+p{
+	font-family: Georgia, serif;
+	font-size: 18px;
+}
+
+h1.title{
+	font-family: Georgia, serif;
+	color: #0404B4;
+	font-size: 26px;
+}
+.lists{
+	font-family: Georgia, serif;
+	font-size: 18px;
+}
+.newsList{
+	font-family: Georgia, serif;
+	font-size: 18px;
+	color: #950;
+}
+.clear{clear:both}
+
+
+
+/*<div class="row">
+	<div class="col-xs-4">
+		<a href="project/survey_pq/survey_pq.html"><img src="./research/MMM2016Sign/MMM2016Sign_view.png" class="img-thumbnail"></a>
+	</div>
+	<div class="col-xs-8">
+		<strong>Sign Language Recognition Based on Trajectory Modeling with HMMs</strong><br>
+		<a href="http://home.ustc.edu.cn/~pjh" target="_blank"><b>Junfu Pu</b></a>, <a href="http://staff.ustc.edu.cn/~zhwg" target="_blank">Wengang Zhou</a>,
+		Jihai Zhang, and <a href="http://staff.ustc.edu.cn/~lihq/English.html" target="_blank">Houqiang Li</a><br>
+
+		<em>International Conference on Multimedia Modelling (MMM), 2016.</em><br>
+		[<a href="./research/MMM2016Sign/MMM2016Sign.pdf" target="_blank">Paper</a>]
+		[<a href="project/survey_pq/survey_pq.html">Project</a>]
+	</div>
+</div>*/
